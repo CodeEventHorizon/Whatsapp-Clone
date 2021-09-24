@@ -2,15 +2,19 @@
 
 # dependencies
 /node_modules
+/whatsapp-mern/node_modules
 /.pnp
+/whatsapp-mern/.pnp
 .pnp.js
+/whatsapp-mern/.pnp.js
 
 # testing
 /coverage
+/whatsapp-mern/coverage
 
 # production
 /build
-
+/whatsapp-mern/build
 # misc
 .DS_Store
 .env.local
