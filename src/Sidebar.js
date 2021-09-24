@@ -10,7 +10,7 @@ function Sidebar() {
         <div className='sidebar'>
             <div className="sidebar__header">
                 {/* Avatar src */}
-                <Avatar src='https://avatars.githubusercontent.com/u/71488833?s=96&v=4'/>
+                <Avatar src='https://avatars.githubusercontent.com/u/71488833?s=96&v=4' />
                 <div className="sidebar__headerRight">
                     <IconButton>
                         <DonutLargeIcon />
