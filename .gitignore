@@ -15,6 +15,7 @@
 # production
 /build
 /whatsapp-mern/build
+
 # misc
 .DS_Store
 .env.local
