@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App Screenshot
+![App Screenshot](https://github.com/CodeEventHorizon/whatsapp-clone/whatsapp-mern/public/AppScreenshot.PNG?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
