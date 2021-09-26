@@ -35,6 +35,22 @@
     overflow-x: hidden;
 }
 
+.chat__body::-webkit-scrollbar-track {
+    padding: 2px 0;
+    background-color: #ebebeb;
+}
+
+.chat__body::-webkit-scrollbar {
+    width: 10px;
+}
+
+.chat__body::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #737272;
+    border: 1px solid #000;
+}
+
 .chat__message {
     position: relative;
     font-size: 16px;
@@ -77,6 +93,7 @@
 
 .chat__footer > form > input {
     flex: 1;
+    outline-width: 0;
     border-radius: 30px;
     padding: 10px;
     border: none;

@@ -58,7 +58,7 @@
     overflow-x: hidden;
 }
 
-/* .sidebar__chats::-webkit-scrollbar-track {
+.sidebar__chats::-webkit-scrollbar-track {
     padding: 2px 0;
     background-color: #ebebeb;
 }
@@ -72,4 +72,4 @@
     box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
     background-color: #737272;
     border: 1px solid #000;
-} */
+}
